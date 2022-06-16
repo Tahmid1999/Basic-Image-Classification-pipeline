@@ -1,4 +1,4 @@
-# Basic-Image-Classification-pipeline
+# Basic Image Classification pipeline
 1. Use the CIFAR’s dataloader 
 2. Read training images and labels in the numpy arrays.
 3. Train them using Nearest Neighborhood Classifier.
